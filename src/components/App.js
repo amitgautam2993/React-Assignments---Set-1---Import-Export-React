@@ -1,4 +1,5 @@
 import React, { Component, useState } from "react";
+import './Heading.js';
 import '../styles/App.css';
 
 const App = () => {
