@@ -1,9 +1,9 @@
 import React, { Component, useState } from "react";
-import './Heading.js';
-import './SubHeading.js';
-import './InputQuery.js';
-import './SubmitButton.js';
 import '../styles/App.css';
+import Heading from "./Heading";
+import InputQuery from "./InputQuery";
+import SubHeading from "./SubHeading";
+import SubmitButton from "./SubmitButton";
 
 const App = () => {
   return (
