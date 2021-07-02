@@ -1,5 +1,5 @@
 import React, { Component, useState } from "react";
-import './Heading.js';
+import '/Heading.js';
 import './SubHeading.js';
 import './InputQuery.js';
 import './SubmitButton.js';
