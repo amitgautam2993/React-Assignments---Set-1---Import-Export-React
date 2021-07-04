@@ -5,4 +5,4 @@ function SubHeading() {
         <h5>Happy to solve you doubts.</h5>
     )
 }
-default export SubHeading;
+export default SubHeading;
